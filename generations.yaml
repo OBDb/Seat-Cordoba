@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/SEAT_C%C3%B3rdoba"
+
+generations:
+  - name: "Second Generation (6L)"
+    start_year: 2002
+    end_year: 2009
+    description: "The sedan version of the third-generation Ibiza, on the Polo's PQ24 platform."
